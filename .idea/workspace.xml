@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="26b758f8-e0ab-411e-bf6b-4b039bd1a996" name="Changes" comment="Changed Style and Contents" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2dhYNZris6vCBh7nFLBHg9U3uvk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Projects/amirmasoudaz.github.io&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\Portfolio" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
+        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26b758f8-e0ab-411e-bf6b-4b039bd1a996" name="Changes" comment="" />
+      <created>1710461750139</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710461750139</updated>
+      <workItem from="1710461751260" duration="4684000" />
+      <workItem from="1711031756728" duration="1482000" />
+      <workItem from="1711090658472" duration="3000" />
+      <workItem from="1711119219845" duration="1194000" />
+      <workItem from="1711328859009" duration="18000" />
+      <workItem from="1713423987273" duration="3784000" />
+      <workItem from="1713479409492" duration="2793000" />
+      <workItem from="1713672436264" duration="1570000" />
+      <workItem from="1714366553157" duration="6440000" />
+      <workItem from="1714390144458" duration="54000" />
+      <workItem from="1714392859874" duration="958000" />
+      <workItem from="1714462122234" duration="600000" />
+      <workItem from="1714466937623" duration="45000" />
+      <workItem from="1714481920479" duration="2953000" />
+      <workItem from="1714646000182" duration="106000" />
+      <workItem from="1715823072177" duration="897000" />
+      <workItem from="1715966009166" duration="2000" />
+      <workItem from="1715966027820" duration="13000" />
+      <workItem from="1723584106791" duration="1202000" />
+      <workItem from="1723585430310" duration="189000" />
+      <workItem from="1723592646266" duration="1964000" />
+    </task>
+    <task id="LOCAL-00001" summary="Changed max-width to 95 percent">
+      <option name="closed" value="true" />
+      <created>1713427891729</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713427891729</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added icon">
+      <option name="closed" value="true" />
+      <created>1713429148283</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713429148283</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added icon">
+      <option name="closed" value="true" />
+      <created>1713429281575</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713429281575</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added icon">
+      <option name="closed" value="true" />
+      <created>1713429364530</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713429364530</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added icon">
+      <option name="closed" value="true" />
+      <created>1713429477162</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713429477162</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Changed Style and Contents">
+      <option name="closed" value="true" />
+      <created>1714390190524</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1714390190524</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Changed Style and Contents">
+      <option name="closed" value="true" />
+      <created>1714392967395</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1714392967395</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Changed Style and Contents">
+      <option name="closed" value="true" />
+      <created>1714393353551</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1714393353551</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Changed Style and Contents">
+      <option name="closed" value="true" />
+      <created>1714393706074</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1714393706074</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Changed Style and Contents">
+      <option name="closed" value="true" />
+      <created>1714462134240</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1714462134241</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Changed Style and Contents">
+      <option name="closed" value="true" />
+      <created>1714466949454</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1714466949454</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Changed Style and Contents">
+      <option name="closed" value="true" />
+      <created>1714481927141</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1714481927141</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Changed Style and Contents">
+      <option name="closed" value="true" />
+      <created>1714482858960</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1714482858960</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Changed Style and Contents">
+      <option name="closed" value="true" />
+      <created>1714503660037</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1714503660037</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Changed Style and Contents">
+      <option name="closed" value="true" />
+      <created>1714503725636</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1714503725636</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Changed Style and Contents">
+      <option name="closed" value="true" />
+      <created>1714504220819</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1714504220819</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Changed Style and Contents">
+      <option name="closed" value="true" />
+      <created>1714504676559</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1714504676559</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Changed Style and Contents">
+      <option name="closed" value="true" />
+      <created>1714646010250</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1714646010250</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Changed Style and Contents">
+      <option name="closed" value="true" />
+      <created>1714646028000</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1714646028000</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Changed Style and Contents">
+      <option name="closed" value="true" />
+      <created>1715823119752</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1715823119752</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changed max-width to 95 percent" />
+    <MESSAGE value="Added icon" />
+    <MESSAGE value="Changed Style and Contents" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed Style and Contents" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
